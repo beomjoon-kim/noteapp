@@ -630,7 +630,7 @@ sudo apt install python3 python3-pip
 - WSL은 `파일 탐색기`에서 `\\wsl$`로 리눅스 파일을 바로 접근할 수 있습니다.
 - Windows Terminal + WSL 조합 추천!
 
-![image.png](image%202.png)
+![image.png](READMEsrc/image%202.png)
 
 https://learn.microsoft.com/ko-kr/windows/wsl/
 
