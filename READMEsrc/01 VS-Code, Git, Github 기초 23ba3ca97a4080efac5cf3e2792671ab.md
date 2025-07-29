@@ -468,11 +468,11 @@ winget search Microsoft.Powershell
 winget install --id Microsoft.Powershell --source winget
 ```
 
-![image.png](READMEsrc/image.png)
+![image.png](image.png)
 
 설치 중간에 작업표시줄 하단을 살펴보면 확인 창이 나타납니다. 승인해야 모두 설치 완료 됩니다.
 
-![image.png](READMEsrc/image%201.png)
+![image.png](image%201.png)
 
 ---
 
