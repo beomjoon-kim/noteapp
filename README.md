@@ -95,7 +95,7 @@ HTML 문서의 기본 구조는 위에서 설명한 <html>, <head>, <body> 태�
 
 ### 메모장을 이용한 HTML 페이지 작성
 
-![Untitled](Untitled.png)
+![Untitled](READMEsrc/Untitled.png)
 
 - 작성 순서 [https://www.w3schools.com/html/html_editors.asp](https://www.w3schools.com/html/html_editors.asp)
 1. 웹 페이지 구조 설계: 웹 페이지의 구조를 결정하고 어떤 요소들을 포함할지 계획합니다. 예를 들어, 헤더, 내용, 사이드바, 푸터 등을 어떻게 배치할지 결정합니다.
@@ -186,7 +186,7 @@ HTML 문서의 기본 구조는 위에서 설명한 <html>, <head>, <body> 태�
 - 비주얼 스튜디오 코드를 설치하려면 다음 단계를 따릅니다:
     - 공식 웹 사이트 [https://code.visualstudio.com/](https://code.visualstudio.com/)
     
-    ![Untitled](Untitled%201.png)
+    ![Untitled](READMEsrc/Untitled%201.png)
     
     - 해당 운영 체제(Windows, macOS, Linux)에 맞는 설치 파일을 다운로드합니다.
     - 다운로드한 파일을 실행하고 설치 과정을 따릅니다.
@@ -227,7 +227,7 @@ Git 저장소의 코드 변경 이력과 주석, 작성자 정보 등을 보여�
 > 🚀 수정 후 저장하면 브라우저 자동 갱신 확인
 > 
 
-![Untitled](Untitled%202.png)
+![Untitled](READMEsrc/Untitled%202.png)
 
 비주얼 스튜디오 코드의 확장 기능은 "Extensions" 메뉴를 통해 설치할 수 있습니다. 비주얼 스튜디오 코드의 왼쪽 사이드바에서 네모 모양 아이콘을 클릭하면 Extensions 메뉴가 열립니다. 여기서 원하는 확장 기능을 검색하여 설치하고, 설치된 확장 기능을 활성화할 수 있습니다.
 
@@ -287,7 +287,7 @@ Git 저장소의 코드 변경 이력과 주석, 작성자 정보 등을 보여�
 2. 실행 대화상자 사용:
     - Windows 키 + R을 눌러 "실행" 대화상자를 엽니다.
     
-    ![Untitled](Untitled%203.png)
+    ![Untitled](READMEsrc/Untitled%203.png)
     
     - "cmd"를 입력하고 Enter 키를 누릅니다.
 3. Windows 탐색기에서 경로로 직접 이동:
@@ -299,7 +299,7 @@ Git 저장소의 코드 변경 이력과 주석, 작성자 정보 등을 보여�
     - "파일" 메뉴에서 "새 작업 실행"을 선택합니다.
     - "cmd"를 입력하고 Enter 키를 누릅니다.
     
-    ![Untitled](Untitled%204.png)
+    ![Untitled](READMEsrc/Untitled%204.png)
     
 
 ---
